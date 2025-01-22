@@ -1,8 +1,10 @@
 # LaTeX Templates
 
-This repository contains commented LaTeX templates I've written for a CV, lecture notes, homework, research/expository papers, and essays. Custom commands and shortcuts for commonly-used symbols in statistics and math are included in the templates for notes, homework, and research, and are explained in the comments with examples. 
+This repository contains commented LaTeX templates I've written for CVs, lecture notes, homework, research papers, presentations, and essays. Custom commands for commonly used symbols in statistics and math are included in the templates and are explained in the comments with examples. 
 
-Additionally, [here is a website](https://www.tablesgenerator.com) that can generate LaTeX code for tables.
+Two other useful websites:
+* [Generate LaTeX code for tables](https://www.tablesgenerator.com)
+* [Draw a symbol and get the LaTeX command for it](http://detexify.kirelabs.org/classify.html)
 
 ### CV (Version 1)
 
