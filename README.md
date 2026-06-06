@@ -1,6 +1,9 @@
 # LaTeX Templates
 
-This repository contains commented LaTeX templates I've written for CVs, lecture notes, homework, research papers, presentations, and essays. Custom commands for commonly used symbols in statistics and math are included in the templates and are explained in the comments with examples. 
+## Credits
+This project uses code from [username/repository](https://github.com/sara-venkatraman).
+
+This repository contains commented LaTeX templates for CVs, lecture notes, homework, research papers, presentations, and essays. Custom commands for commonly used symbols in statistics and math are included in the templates and are explained in the comments with examples. 
 
 Two other useful websites:
 * [Generate LaTeX code for tables](https://www.tablesgenerator.com)
